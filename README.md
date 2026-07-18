@@ -83,3 +83,18 @@ To make work simpler, faster, and more reliable — transforming repetitive manu
 ---
 
 ## 🛠️ Tech Stack
+n8n | Workflow Automation | API Integration | AI | RAG | Pinecone
+Prompt Engineering | Docker | JavaScript | Google Workspace | AppSheet
+Google Sheets API | Telegram API | MySQL | PHP | HTML/CSS
+
+---
+
+## 📫 Connect with Me
+
+- **Email:** agungtrimahmudi.it@gmail.com
+- **LinkedIn:** [linkedin.com/in/agung-tri-mahmudi](https://linkedin.com/in/agung-tri-mahmudi)
+- **GitHub:** [github.com/agungtrimahmudi-automation](https://github.com/agungtrimahmudi-automation)
+
+---
+
+## 💡 Always learning, experimenting, and building automation systems that create real impact. Open to collaboration and opportunities in AI and workflow automation.
