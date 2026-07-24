@@ -1,77 +1,77 @@
-# Hi, I'm Agung Tri Mahmudi 👋
+# Halo, Saya Agung Tri Mahmudi 👋
 
-**Automation Enthusiast | n8n & AI Workflow Builder | Fresh Graduate**
+**Penggiat Otomasi | Pembangun Workflow n8n & AI | Fresh Graduate**
 
-I build workflow automation and AI-powered systems that turn repetitive, manual processes into efficient, reliable, and scalable solutions.
+Saya membangun sistem otomasi dan kecerdasan buatan yang mengubah proses manual yang repetitif menjadi solusi yang efisien, andal, dan dapat dikembangkan.
 
-My work focuses on **workflow automation**, **AI integration**, and **business process optimization** — transforming complex, messy manual tasks into automated pipelines that save time, reduce errors, and deliver measurable impact.
+Fokus kerja saya meliputi **otomatisasi alur kerja (workflow)**, **integrasi AI**, dan **optimasi proses bisnis** — mengubah tugas-tugas manual yang rumit dan berantakan menjadi alur otomatis yang menghemat waktu, mengurangi kesalahan, dan memberikan dampak terukur.
 
-I'm a curious, self-driven learner who enjoys experimenting with new tools, prototyping ideas, and continuously improving systems through iteration and evaluation.
+Saya adalah pembelajar mandiri yang penuh rasa ingin tahu, senang bereksperimen dengan alat-alat baru, membuat purwarupa ide, dan terus menyempurnakan sistem melalui proses iterasi dan evaluasi.
 
 > *"Jika bisa mudah, kenapa harus melakukan kegiatan repetitif yang membosankan?"*
 
 ---
 
-## 🔧 What I Build
+## 🔧 Apa yang Saya Bangun
 
-- **Workflow Automation** — End-to-end automation using n8n, API integrations, and webhooks
-- **AI & LLM Systems** — RAG pipelines, AI Agents, and LLM integrations (Gemini, Claude, ChatGPT)
-- **ETL Pipelines** — Parallel data extraction, transformation, and aggregation from multiple sources
-- **AI-Powered Chatbots** — Multi-step AI Agents with CRUD operations, role-based access, and payment detection
-- **Business Process Optimization** — Analyzing and redesigning manual workflows for maximum efficiency
-- **Internal Tools** — Low-code applications using AppSheet and Google Sheets for administrative tasks
-
----
-
-## 🌱 What I Do
-
-- **Automate repetitive tasks** — Turning 2-hour manual processes into 1-minute automated workflows
-- **Build RAG systems** — Creating knowledge-base bots that answer questions based on proprietary documents with 0% hallucination
-- **Integrate AI with business systems** — Connecting LLMs with Google Sheets, Telegram, and databases
-- **Design prompt engineering systems** — Building structured, repeatable prompt frameworks for consistent AI output
-- **Prototype and experiment** — Testing new tools, APIs, and approaches to find the most efficient solutions
+- **Otomatisasi Alur Kerja** — Otomasi ujung-ke-ujung menggunakan n8n, integrasi API, dan webhook.
+- **Sistem AI & LLM** — Pipeline RAG, Agen AI, dan integrasi LLM (Gemini, Claude, ChatGPT).
+- **Pipeline ETL** — Ekstraksi, transformasi, dan agregasi data secara paralel dari berbagai sumber.
+- **Chatbot Bertenaga AI** — Agen AI multi-langkah dengan operasi CRUD, kontrol akses berbasis peran, dan deteksi pembayaran.
+- **Optimasi Proses Bisnis** — Analisis dan perancangan ulang alur kerja manual untuk efisiensi maksimum.
+- **Aplikasi Internal** — Aplikasi *low-code* menggunakan AppSheet dan Google Sheets untuk tugas-tugas administratif.
 
 ---
 
-## 🧠 Current Focus
+## 🌱 Apa yang Saya Kerjakan
 
-- **n8n workflow automation** — Production-grade workflows with error handling, retry logic, and scheduling
-- **RAG pipeline development** — Retrieval-Augmented Generation for knowledge-base systems
-- **AI Agent orchestration** — Building multi-step agents with tool calling and role-based access
-- **Docker & deployment** — Containerizing workflows for production environments
-- **Scalable automation** — Designing systems that grow with business needs
-
----
-
-## 🎯 My Mission
-
-To make work simpler, faster, and more reliable — transforming repetitive manual tasks into intelligent, automated systems so people can focus on what truly matters.
+- **Mengotomatiskan tugas repetitif** — Mengubah proses manual 2 jam menjadi alur otomatis 1 menit.
+- **Membangun sistem RAG** — Menciptakan bot berbasis basis pengetahuan yang menjawab pertanyaan dari dokumen internal dengan **0% halusinasi**.
+- **Mengintegrasikan AI dengan sistem bisnis** — Menghubungkan LLM dengan Google Sheets, Telegram, dan basis data.
+- **Merancang sistem rekayasa prompt** — Membangun kerangka kerja *prompt* yang terstruktur dan berulang untuk menghasilkan keluaran AI yang konsisten.
+- **Purwarupa dan eksperimen** — Menguji alat, API, dan pendekatan baru untuk menemukan solusi paling efisien.
 
 ---
 
-## 📌 Featured Projects
+## 🧠 Fokus Saat Ini
 
-| Project | Tech Stack | Impact |
+- **Otomatisasi n8n tingkat produksi** — Workflow dengan penanganan kesalahan, logika *retry*, dan penjadwalan.
+- **Pengembangan pipeline RAG** — *Retrieval-Augmented Generation* untuk sistem berbasis pengetahuan.
+- **Orkestrasi Agen AI** — Membangun agen multi-langkah dengan pemanggilan alat dan kontrol akses.
+- **Docker & deployment** — Mengemas workflow dalam wadah (*container*) untuk lingkungan produksi.
+- **Otomatisasi skalabel** — Merancang sistem yang tumbuh seiring kebutuhan bisnis.
+
+---
+
+## 🎯 Misi Saya
+
+Membuat pekerjaan menjadi lebih sederhana, cepat, dan andal — mengubah tugas-tugas manual yang repetitif menjadi sistem cerdas yang terotomatisasi, sehingga orang-orang dapat fokus pada hal-hal yang benar-benar penting.
+
+---
+
+## 📌 Proyek Unggulan
+
+| Proyek | Teknologi | Dampak |
 | :--- | :--- | :--- |
-| **RAG Bot** | n8n + Pinecone + Gemini | 0% hallucination — knowledge-base from documents |
-| **AI Chatbot UMKM** | n8n + Gemini + Google Sheets | 80% admin time reduction — automated customer service |
-| **Rekap RS** | n8n + JavaScript + Google Sheets | 95% time reduction (2 hrs → 1 min) |
-| **Jurnal Basarnas** | n8n + Google APIs | 80% staff time savings — 1+ year production |
-| **FLPS** | Prompt Engineering System | 24 videos in 1 month (29.847 views) |
+| **Bot RAG** | n8n + Pinecone + Gemini | **0% halusinasi** — basis pengetahuan dari dokumen internal |
+| **Chatbot AI UMKM** | n8n + Gemini + Google Sheets | **80%** pengurangan waktu admin — layanan pelanggan otomatis |
+| **Rekap RS** | n8n + JavaScript + Google Sheets | **95%** pengurangan waktu (2 jam → 1 menit) |
+| **Jurnal Operasional Bulanan** | n8n + Google APIs | **80%** efisiensi staf — berjalan produksi >1 tahun |
+| **Sistem FLPS** | Rekayasa *Prompt* | 24 video dalam 1 bulan (**29.847** tayangan) |
 
 ---
 
-## 🔗 More Projects
+## 🔗 Proyek Lainnya
 
-🔗 **Sistem Pendaftaran Digital (Dispora)** — Low-code registration system using AppSheet and Google Sheets. Eliminated manual data re-entry.
+🔗 **Sistem Pendaftaran Digital** — Sistem pendaftaran *low-code* menggunakan AppSheet dan Google Sheets. Menghilangkan entri data ulang secara manual.
 
-🔗 **Sistem Informasi Desa Lontoi** — Web-based village information system for KKN documentation.
+🔗 **Sistem Informasi Desa Lontoi** — Sistem informasi desa berbasis web untuk dokumentasi KKN.
 
 ---
 
-## 📜 Certifications
+## 📜 Sertifikasi
 
-| Certification | Issuer | Year |
+| Sertifikasi | Penerbit | Tahun |
 | :--- | :--- | :--- |
 | n8n: No Code AI Agent Builder | Simplilearn | 2026 |
 | Introduction to Prompt Engineering | Simplilearn | 2026 |
@@ -82,14 +82,13 @@ To make work simpler, faster, and more reliable — transforming repetitive manu
 
 ---
 
-## 🛠️ Tech Stack
-n8n | Workflow Automation | API Integration | AI | RAG | Pinecone
-Prompt Engineering | Docker | JavaScript | Google Workspace | AppSheet
-Google Sheets API | Telegram API | MySQL | PHP | HTML/CSS
+## 🛠️ Tumpukan Teknologi
+
+`n8n` · `Otomatisasi Workflow` · `Integrasi API` · `AI` · `RAG` · `Pinecone` · `Rekayasa Prompt` · `Docker` · `JavaScript` · `Google Workspace` · `AppSheet` · `Google Sheets API` · `Telegram API` · `MySQL` · `PHP` · `HTML/CSS`
 
 ---
 
-## 📫 Connect with Me
+## 📫 Hubungi Saya
 
 - **Email:** agungtrimahmudi.it@gmail.com
 - **LinkedIn:** [linkedin.com/in/agung-tri-mahmudi](https://linkedin.com/in/agung-tri-mahmudi)
@@ -97,4 +96,4 @@ Google Sheets API | Telegram API | MySQL | PHP | HTML/CSS
 
 ---
 
-## 💡 Always learning, experimenting, and building automation systems that create real impact. Open to collaboration and opportunities in AI and workflow automation.
+## 💡 Selalu belajar, bereksperimen, dan membangun sistem otomasi yang memberikan dampak nyata. Terbuka untuk kolaborasi dan peluang di bidang AI dan otomatisasi alur kerja.
