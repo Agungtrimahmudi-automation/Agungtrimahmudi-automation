@@ -2,20 +2,15 @@
 
 **Automation Practitioner | n8n Workflow & AI Developer | Fresh Graduate**
 
-I build automation and AI systems that turn repetitive manual processes into solutions that are efficient, reliable, and built to grow.
+I build automation and AI systems, usually to replace some tedious manual process with something faster and more reliable.
 
-My work focuses on **workflow automation**, **AI integration**, and **business process optimization**: turning messy, complicated manual tasks into automated flows that save time, reduce errors, and deliver measurable impact.
+The repositories on this profile are workflow automation projects I build and use myself,
+spanning AI integration, data pipelines, and business process automation. Two of them run in
+production for external clients (a hospital and an emergency response unit), several more are
+production systems I run and use daily, and the rest are still in development (see the Status
+column in the project table below).
 
-I'm a curious, self-directed learner who enjoys experimenting with new tools, prototyping ideas, and refining systems through iteration and evaluation.
-
-The repositories on this profile represent the workflow automation projects I build and use
-myself, spanning AI integration, data pipelines, and business process automation. Two of them
-run in production for external clients (a hospital and an emergency response unit), several
-more are production systems I run and use daily, and the rest are still in development (see
-the Status column in the project table below).
-
-> *"If it can be easy, why do something repetitive and tedious the hard way?"*
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -130,7 +125,7 @@ Technical details for each production project are in its own public repo (see th
 
 ---
 
-## 💡 Always learning, experimenting, and building automation systems that deliver real impact. Open to collaboration and opportunities in AI and workflow automation.
+Open to collaboration and opportunities in AI and workflow automation.
 
 ---
 
