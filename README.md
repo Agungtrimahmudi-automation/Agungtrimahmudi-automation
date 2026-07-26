@@ -8,6 +8,12 @@ Fokus kerja saya meliputi **otomatisasi alur kerja (workflow)**, **integrasi AI*
 
 Saya adalah pembelajar mandiri yang penuh rasa ingin tahu, senang bereksperimen dengan alat-alat baru, membuat purwarupa ide, dan terus menyempurnakan sistem melalui proses iterasi dan evaluasi.
 
+Repositori di profil ini merepresentasikan berbagai skenario workflow automation yang saya bangun
+sebagai studi kasus teknis — mulai dari integrasi AI, pipeline data, hingga otomatisasi proses
+bisnis. Sebagian sudah berjalan di produksi nyata untuk klien, sebagian lagi adalah simulasi
+skenario untuk menguji pendekatan dan pola arsitektur berbeda (lihat kolom Status di tabel
+proyek di bawah).
+
 > *"Jika bisa mudah, kenapa harus melakukan kegiatan repetitif yang membosankan?"*
 
 ![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=white)
@@ -63,13 +69,28 @@ Membuat pekerjaan menjadi lebih sederhana, cepat, dan andal — mengubah tugas-t
 
 ## 📌 Proyek Unggulan
 
-| Proyek | Teknologi | Dampak |
+| Proyek | Teknologi | Dampak | Status |
+| :--- | :--- | :--- | :--- |
+| **Rekap RS** | n8n + JavaScript + Google Sheets | **95%** pengurangan waktu (2 jam → 1 menit) | Produksi nyata — rumah sakit |
+| **Jurnal Operasional Bulanan** | n8n + Google APIs | **80%** efisiensi staf pengisian laporan | Produksi nyata — klien unit siaga |
+| **Bot RAG** | Python + Gemini | Retrieval grounded, 0% jawaban di luar sumber | Studi kasus teknis |
+| **Chatbot AI UMKM** | n8n + Gemini + Google Sheets | Simulasi layanan pelanggan otomatis | Studi kasus teknis |
+| **Sistem FLPS** | Rekayasa *Prompt* iteratif (v1.0–v3.0) | Sistem prompt untuk produksi konten Shorts | Studi kasus teknis |
+
+Detail teknis tiap proyek produksi ada di repo publik masing-masing (lihat bagian Repositori).
+
+---
+
+## 📂 Repositori
+
+| Repo | Deskripsi | Status |
 | :--- | :--- | :--- |
-| **Bot RAG** | n8n + Pinecone + Gemini | **0% halusinasi** — basis pengetahuan dari dokumen internal |
-| **Chatbot AI UMKM** | n8n + Gemini + Google Sheets | **80%** pengurangan waktu admin — layanan pelanggan otomatis |
-| **Rekap RS** | n8n + JavaScript + Google Sheets | **95%** pengurangan waktu (2 jam → 1 menit) |
-| **Jurnal Operasional Bulanan** | n8n + Google APIs | **80%** efisiensi staf — berjalan produksi >1 tahun |
-| **Sistem FLPS** | Rekayasa *Prompt* | 24 video dalam 1 bulan (**29.847** tayangan) |
+| [Jurnal-Siaga](https://github.com/Agungtrimahmudi-automation/Jurnal-Siaga) | Generator jurnal siaga bulanan — n8n self-hosted + form kustom | Produksi nyata |
+| [Rekap-Data-Dokter](https://github.com/Agungtrimahmudi-automation/Rekap-Data-Dokter) | Rekap otomatis data kunjungan dokter rumah sakit | Produksi nyata |
+| [laporan-hp-mingguan](https://github.com/Agungtrimahmudi-automation/laporan-hp-mingguan) | Peringkat konsensus Top 10 HP per kelas harga, mingguan | Studi kasus teknis |
+| [novel-rekomendasi-harian](https://github.com/Agungtrimahmudi-automation/novel-rekomendasi-harian) | Digest email harian peringkat novel lintas situs | Studi kasus teknis |
+| [recipe-rag-assistant](https://github.com/Agungtrimahmudi-automation/recipe-rag-assistant) | RAG assistant resep masakan via Telegram | Studi kasus teknis |
+| [baubau-deal-finder](https://github.com/Agungtrimahmudi-automation/baubau-deal-finder) | Pemantau deal marketplace Facebook lokal | Studi kasus teknis |
 
 ---
 
@@ -108,7 +129,7 @@ Membuat pekerjaan menjadi lebih sederhana, cepat, dan andal — mengubah tugas-t
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Selain itu: Otomatisasi Workflow, Integrasi API, RAG, Pinecone, Rekayasa Prompt, AppSheet, Google Workspace.
+Selain itu: Otomatisasi Workflow, Integrasi API, RAG, Rekayasa Prompt, AppSheet, Google Workspace.
 
 ---
 
