@@ -1,6 +1,6 @@
 # Halo, Saya Agung Tri Mahmudi 👋
 
-**Penggiat Otomasi | Pembangun Workflow n8n & AI | Fresh Graduate**
+**Penggiat Otomasi | Pengembang Workflow n8n & AI | Fresh Graduate**
 
 Saya membangun sistem otomasi dan kecerdasan buatan yang mengubah proses manual yang repetitif menjadi solusi yang efisien, andal, dan dapat dikembangkan.
 
@@ -56,7 +56,7 @@ adalah proyek yang masih dalam pengembangan (lihat kolom Status di tabel proyek 
 - **Otomatisasi n8n tingkat produksi** — Workflow dengan penanganan kesalahan, logika *retry*, dan penjadwalan.
 - **Pengembangan pipeline RAG** — *Retrieval-Augmented Generation* untuk sistem berbasis pengetahuan.
 - **Orkestrasi Agen AI** — Membangun agen multi-langkah dengan pemanggilan alat dan kontrol akses.
-- **Docker & deployment** — Mengemas workflow dalam wadah (*container*) untuk lingkungan produksi.
+- **Docker & deployment** — Mengemas workflow dalam container untuk lingkungan produksi.
 - **Otomatisasi skalabel** — Merancang sistem yang tumbuh seiring kebutuhan bisnis.
 
 ---
@@ -115,7 +115,7 @@ Detail teknis tiap proyek produksi ada di repo publik masing-masing (lihat bagia
 
 ---
 
-## 🛠️ Tumpukan Teknologi
+## 🛠️ Tech Stack
 
 ![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
