@@ -135,6 +135,7 @@ Selain itu: Otomatisasi Workflow, Integrasi API, RAG, Rekayasa Prompt, AppSheet,
 
 ## 📫 Hubungi Saya
 
+- **Website:** [agungtrimahmudi.site](https://agungtrimahmudi.site)
 - **Email:** agungtrimahmudi.it@gmail.com
 - **LinkedIn:** [linkedin.com/in/agung-tri-mahmudi](https://linkedin.com/in/agung-tri-mahmudi)
 - **GitHub:** [github.com/agungtrimahmudi-automation](https://github.com/agungtrimahmudi-automation)
