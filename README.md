@@ -1,27 +1,33 @@
-# Halo, Saya Agung Tri Mahmudi 👋
+# Hi, I'm Agung Tri Mahmudi 👋
 
-**Penggiat Otomasi | Pengembang Workflow n8n & AI | Fresh Graduate**
+**Automation Practitioner | n8n Workflow & AI Developer | Fresh Graduate**
 
-Saya membangun sistem otomasi dan kecerdasan buatan yang mengubah proses manual yang repetitif menjadi solusi yang efisien, andal, dan dapat dikembangkan.
+I build automation and AI systems that turn repetitive manual processes into solutions that are efficient, reliable, and built to grow.
 
-Fokus kerja saya meliputi **otomatisasi alur kerja (workflow)**, **integrasi AI**, dan **optimasi proses bisnis** — mengubah tugas-tugas manual yang rumit dan berantakan menjadi alur otomatis yang menghemat waktu, mengurangi kesalahan, dan memberikan dampak terukur.
+My work focuses on **workflow automation**, **AI integration**, and **business process optimization**: turning messy, complicated manual tasks into automated flows that save time, reduce errors, and deliver measurable impact.
 
-Saya adalah pembelajar mandiri yang penuh rasa ingin tahu, senang bereksperimen dengan alat-alat baru, membuat purwarupa ide, dan terus menyempurnakan sistem melalui proses iterasi dan evaluasi.
+I'm a curious, self-directed learner who enjoys experimenting with new tools, prototyping ideas, and refining systems through iteration and evaluation.
 
-Repositori di profil ini merepresentasikan berbagai skenario workflow automation yang saya bangun
-dan pakai sendiri — mulai dari integrasi AI, pipeline data, hingga otomatisasi proses bisnis. Dua
-di antaranya berjalan di produksi untuk klien eksternal (rumah sakit dan unit siaga), beberapa
-lainnya adalah sistem produksi yang saya jalankan dan pakai sendiri sehari-hari, dan sisanya
-adalah proyek yang masih dalam pengembangan (lihat kolom Status di tabel proyek di bawah).
+The repositories on this profile represent the workflow automation projects I build and use
+myself, spanning AI integration, data pipelines, and business process automation. Two of them
+run in production for external clients (a hospital and an emergency response unit), several
+more are production systems I run and use daily, and the rest are still in development (see
+the Status column in the project table below).
 
-> *"Jika bisa mudah, kenapa harus melakukan kegiatan repetitif yang membosankan?"*
+> *"If it can be easy, why do something repetitive and tedious the hard way?"*
 
 ![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+Also used across projects: Telegram bot integration, AppSheet, Google Workspace, prompt engineering.
 
 ---
 
@@ -30,110 +36,92 @@ adalah proyek yang masih dalam pengembangan (lihat kolom Status di tabel proyek 
 
 ---
 
-## 🔧 Apa yang Saya Bangun
+## 🔧 What I Build
 
-- **Otomatisasi Alur Kerja** — Otomasi ujung-ke-ujung menggunakan n8n, integrasi API, dan webhook.
-- **Sistem AI & LLM** — Pipeline RAG, Agen AI, dan integrasi LLM (Gemini, Claude, ChatGPT).
-- **Pipeline ETL** — Ekstraksi, transformasi, dan agregasi data secara paralel dari berbagai sumber.
-- **Chatbot Bertenaga AI** — Agen AI multi-langkah dengan operasi CRUD, kontrol akses berbasis peran, dan deteksi pembayaran.
-- **Optimasi Proses Bisnis** — Analisis dan perancangan ulang alur kerja manual untuk efisiensi maksimum.
-- **Aplikasi Internal** — Aplikasi *low-code* menggunakan AppSheet dan Google Sheets untuk tugas-tugas administratif.
-
----
-
-## 🌱 Apa yang Saya Kerjakan
-
-- **Mengotomatiskan tugas repetitif** — Mengubah proses manual 2 jam menjadi alur otomatis 1 menit.
-- **Membangun sistem RAG** — Menciptakan bot berbasis basis pengetahuan yang menjawab pertanyaan dari dokumen internal dengan **0% halusinasi**.
-- **Mengintegrasikan AI dengan sistem bisnis** — Menghubungkan LLM dengan Google Sheets, Telegram, dan basis data.
-- **Merancang sistem rekayasa prompt** — Membangun kerangka kerja *prompt* yang terstruktur dan berulang untuk menghasilkan keluaran AI yang konsisten.
-- **Purwarupa dan eksperimen** — Menguji alat, API, dan pendekatan baru untuk menemukan solusi paling efisien.
+- **Workflow Automation**: end-to-end automation using n8n, API integrations, and webhooks.
+- **AI & LLM Systems**: RAG pipelines, AI agents, and LLM integrations (Gemini, Claude, ChatGPT).
+- **ETL Pipelines**: extraction, transformation, and aggregation of data from multiple sources in parallel.
+- **AI-Powered Chatbots**: multi-step AI agents with CRUD operations, role-based access control, and payment detection.
+- **Business Process Optimization**: analyzing and redesigning manual workflows for maximum efficiency.
+- **Internal Applications**: low-code apps using AppSheet and Google Sheets for administrative tasks.
 
 ---
 
-## 🧠 Fokus Saat Ini
+## 🌱 What I'm Working On
 
-- **Otomatisasi n8n tingkat produksi** — Workflow dengan penanganan kesalahan, logika *retry*, dan penjadwalan.
-- **Pengembangan pipeline RAG** — *Retrieval-Augmented Generation* untuk sistem berbasis pengetahuan.
-- **Orkestrasi Agen AI** — Membangun agen multi-langkah dengan pemanggilan alat dan kontrol akses.
-- **Docker & deployment** — Mengemas workflow dalam container untuk lingkungan produksi.
-- **Otomatisasi skalabel** — Merancang sistem yang tumbuh seiring kebutuhan bisnis.
-
----
-
-## 🎯 Misi Saya
-
-Membuat pekerjaan menjadi lebih sederhana, cepat, dan andal — mengubah tugas-tugas manual yang repetitif menjadi sistem cerdas yang terotomatisasi, sehingga orang-orang dapat fokus pada hal-hal yang benar-benar penting.
+- **Automating repetitive tasks**: turning a 2-hour manual process into a 1-minute automated flow.
+- **Building RAG systems**: knowledge-base bots that answer questions from internal documents with **0% hallucination**.
+- **Integrating AI with business systems**: connecting LLMs to Google Sheets, Telegram, and databases.
+- **Designing prompt engineering systems**: building structured, repeatable prompt frameworks for consistent AI output.
+- **Prototyping and experimenting**: testing new tools, APIs, and approaches to find the most efficient solution.
 
 ---
 
-## 📌 Proyek Unggulan
+## 🧠 Current Focus
 
-| Proyek | Teknologi | Dampak | Status |
+- **Production-grade n8n automation**: workflows with error handling, retry logic, and scheduling.
+- **RAG pipeline development**: retrieval-augmented generation for knowledge-base systems.
+- **AI agent orchestration**: building multi-step agents with tool calling and access control.
+- **Docker & deployment**: containerizing workflows for production environments.
+- **Scalable automation**: designing systems that grow with business needs.
+
+---
+
+## 🎯 Mission
+
+Make work simpler, faster, and more reliable: turning repetitive manual tasks into intelligent automated systems, so people can focus on what actually matters.
+
+---
+
+## 📌 Featured Projects
+
+| Project | Technology | Impact | Status |
 | :--- | :--- | :--- | :--- |
-| **Rekap RS** | n8n + JavaScript + Google Sheets | **95%** pengurangan waktu (2 jam → 1 menit) | Produksi — klien eksternal |
-| **Jurnal Operasional Bulanan** | n8n + Google APIs | **80%** efisiensi staf pengisian laporan | Produksi — klien eksternal |
-| **Bot RAG** | Python + Gemini | Retrieval grounded, 0% jawaban di luar sumber | Produksi — penggunaan pribadi |
-| **Sistem FLPS** | Rekayasa *Prompt* iteratif (v1.0–v3.0) | 24 video dalam 1 bulan, **29.847** tayangan | Selesai — dipakai untuk produksi konten |
-| **Chatbot AI UMKM** | n8n + Gemini + Google Sheets | Layanan pelanggan otomatis, skala sederhana | Studi kasus teknis — instance lama |
+| **Hospital Data Recap** | n8n + JavaScript + Google Sheets | **95%** time reduction (2 hours to 1 minute) | Production (external client) |
+| **Monthly Duty Journal** | n8n + Google APIs | **80%** staff efficiency on report filing | Production (external client) |
+| **RAG Bot** | Python + Gemini | Grounded retrieval, 0% out-of-source answers | Production (personal use) |
+| **FLPS System** | Iterative prompt engineering (v1.0-v3.0) | 24 videos in 1 month, **29,847** views | Completed (used for content production) |
+| **UMKM AI Chatbot** | n8n + Gemini + Google Sheets | Automated customer service, small-scale | Technical case study (legacy instance) |
 
-Detail teknis tiap proyek produksi ada di repo publik masing-masing (lihat bagian Repositori).
+Technical details for each production project are in its own public repo (see the Repositories section).
 
 ---
 
-## 📂 Repositori
+## 📂 Repositories
 
-| Repo | Deskripsi | Status |
+| Repo | Description | Status |
 | :--- | :--- | :--- |
-| [Jurnal-Siaga](https://github.com/Agungtrimahmudi-automation/Jurnal-Siaga) | Generator jurnal siaga bulanan — n8n self-hosted + form kustom | Produksi — klien eksternal |
-| [Rekap-Data-Dokter](https://github.com/Agungtrimahmudi-automation/Rekap-Data-Dokter) | Rekap otomatis data kunjungan dokter rumah sakit | Produksi — klien eksternal |
-| [laporan-hp-mingguan](https://github.com/Agungtrimahmudi-automation/laporan-hp-mingguan) | Peringkat konsensus Top 10 HP per kelas harga, mingguan | Produksi — penggunaan pribadi |
-| [novel-rekomendasi-harian](https://github.com/Agungtrimahmudi-automation/novel-rekomendasi-harian) | Digest email harian peringkat novel lintas situs | Produksi — penggunaan pribadi |
-| [recipe-rag-assistant](https://github.com/Agungtrimahmudi-automation/recipe-rag-assistant) | RAG assistant resep masakan via Telegram | Produksi — penggunaan pribadi |
-| [baubau-deal-finder](https://github.com/Agungtrimahmudi-automation/baubau-deal-finder) | Pemantau deal marketplace Facebook lokal | Dalam pengembangan |
+| [Jurnal-Siaga](https://github.com/Agungtrimahmudi-automation/Jurnal-Siaga) | Monthly duty journal generator, self-hosted n8n + custom form | Production (external client) |
+| [Rekap-Data-Dokter](https://github.com/Agungtrimahmudi-automation/Rekap-Data-Dokter) | Automated recap of hospital doctor visit data | Production (external client) |
+| [laporan-hp-mingguan](https://github.com/Agungtrimahmudi-automation/laporan-hp-mingguan) | Weekly consensus Top 10 smartphone ranking per price class | Production (personal use) |
+| [novel-rekomendasi-harian](https://github.com/Agungtrimahmudi-automation/novel-rekomendasi-harian) | Daily email digest of novel rankings across sites | Production (personal use) |
+| [recipe-rag-assistant](https://github.com/Agungtrimahmudi-automation/recipe-rag-assistant) | Recipe RAG assistant via Telegram | Production (personal use) |
+| [baubau-deal-finder](https://github.com/Agungtrimahmudi-automation/baubau-deal-finder) | Local Facebook marketplace deal monitor | In development |
 
 ---
 
-## 🔗 Proyek Lainnya
+## 🔗 Other Projects
 
-🔗 **Sistem Pendaftaran Digital** — Sistem pendaftaran *low-code* menggunakan AppSheet dan Google Sheets. Menghilangkan entri data ulang secara manual.
+🔗 **Digital Registration System**: low-code registration system using AppSheet and Google Sheets. Eliminates manual duplicate data entry.
 
-🔗 **Sistem Informasi Desa Lontoi** — Sistem informasi desa berbasis web untuk dokumentasi KKN.
+🔗 **Lontoi Village Information System**: web-based village information system built for a community service program (KKN).
 
 ---
 
-## 📜 Sertifikasi
+## 📜 Certifications
 
-| Sertifikasi | Penerbit | Tahun |
+| Certification | Issuer | Year |
 | :--- | :--- | :--- |
 | n8n: No Code AI Agent Builder | Simplilearn | 2026 |
 | Introduction to Prompt Engineering | Simplilearn | 2026 |
-| Berpikir Kritis di Era Kecerdasan Buatan | HP LIFE | 2026 |
-| AI untuk Profesional Bisnis | HP LIFE | 2026 |
-| Sains dan Analitik Data | HP LIFE | 2026 |
-| Pengantar Keamanan Siber | HP LIFE | 2026 |
+| Critical Thinking in the Age of AI | HP LIFE | 2026 |
+| AI for Business Professionals | HP LIFE | 2026 |
+| Data Science and Analytics | HP LIFE | 2026 |
+| Introduction to Cybersecurity | HP LIFE | 2026 |
 
 ---
 
-## 🛠️ Tech Stack
-
-![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-Selain itu: Otomatisasi Workflow, Integrasi API, RAG, Rekayasa Prompt, AppSheet, Google Workspace.
-
----
-
-## 📫 Hubungi Saya
+## 📫 Contact
 
 - **Website:** [agungtrimahmudi.site](https://agungtrimahmudi.site)
 - **Email:** agungtrimahmudi.it@gmail.com
@@ -142,8 +130,8 @@ Selain itu: Otomatisasi Workflow, Integrasi API, RAG, Rekayasa Prompt, AppSheet,
 
 ---
 
-## 💡 Selalu belajar, bereksperimen, dan membangun sistem otomasi yang memberikan dampak nyata. Terbuka untuk kolaborasi dan peluang di bidang AI dan otomatisasi alur kerja.
+## 💡 Always learning, experimenting, and building automation systems that deliver real impact. Open to collaboration and opportunities in AI and workflow automation.
 
 ---
 
-MIT — lihat [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE).
