@@ -9,10 +9,10 @@ Fokus kerja saya meliputi **otomatisasi alur kerja (workflow)**, **integrasi AI*
 Saya adalah pembelajar mandiri yang penuh rasa ingin tahu, senang bereksperimen dengan alat-alat baru, membuat purwarupa ide, dan terus menyempurnakan sistem melalui proses iterasi dan evaluasi.
 
 Repositori di profil ini merepresentasikan berbagai skenario workflow automation yang saya bangun
-sebagai studi kasus teknis — mulai dari integrasi AI, pipeline data, hingga otomatisasi proses
-bisnis. Sebagian sudah berjalan di produksi nyata untuk klien, sebagian lagi adalah simulasi
-skenario untuk menguji pendekatan dan pola arsitektur berbeda (lihat kolom Status di tabel
-proyek di bawah).
+dan pakai sendiri — mulai dari integrasi AI, pipeline data, hingga otomatisasi proses bisnis. Dua
+di antaranya berjalan di produksi untuk klien eksternal (rumah sakit dan unit siaga), beberapa
+lainnya adalah sistem produksi yang saya jalankan dan pakai sendiri sehari-hari, dan sisanya
+adalah proyek yang masih dalam pengembangan (lihat kolom Status di tabel proyek di bawah).
 
 > *"Jika bisa mudah, kenapa harus melakukan kegiatan repetitif yang membosankan?"*
 
@@ -71,11 +71,11 @@ Membuat pekerjaan menjadi lebih sederhana, cepat, dan andal — mengubah tugas-t
 
 | Proyek | Teknologi | Dampak | Status |
 | :--- | :--- | :--- | :--- |
-| **Rekap RS** | n8n + JavaScript + Google Sheets | **95%** pengurangan waktu (2 jam → 1 menit) | Produksi nyata — rumah sakit |
-| **Jurnal Operasional Bulanan** | n8n + Google APIs | **80%** efisiensi staf pengisian laporan | Produksi nyata — klien unit siaga |
-| **Bot RAG** | Python + Gemini | Retrieval grounded, 0% jawaban di luar sumber | Studi kasus teknis |
-| **Chatbot AI UMKM** | n8n + Gemini + Google Sheets | Simulasi layanan pelanggan otomatis | Studi kasus teknis |
-| **Sistem FLPS** | Rekayasa *Prompt* iteratif (v1.0–v3.0) | Sistem prompt untuk produksi konten Shorts | Studi kasus teknis |
+| **Rekap RS** | n8n + JavaScript + Google Sheets | **95%** pengurangan waktu (2 jam → 1 menit) | Produksi — klien eksternal |
+| **Jurnal Operasional Bulanan** | n8n + Google APIs | **80%** efisiensi staf pengisian laporan | Produksi — klien eksternal |
+| **Bot RAG** | Python + Gemini | Retrieval grounded, 0% jawaban di luar sumber | Produksi — penggunaan pribadi |
+| **Sistem FLPS** | Rekayasa *Prompt* iteratif (v1.0–v3.0) | 24 video dalam 1 bulan, **29.847** tayangan | Selesai — dipakai untuk produksi konten |
+| **Chatbot AI UMKM** | n8n + Gemini + Google Sheets | Layanan pelanggan otomatis, skala sederhana | Studi kasus teknis — instance lama |
 
 Detail teknis tiap proyek produksi ada di repo publik masing-masing (lihat bagian Repositori).
 
@@ -85,12 +85,12 @@ Detail teknis tiap proyek produksi ada di repo publik masing-masing (lihat bagia
 
 | Repo | Deskripsi | Status |
 | :--- | :--- | :--- |
-| [Jurnal-Siaga](https://github.com/Agungtrimahmudi-automation/Jurnal-Siaga) | Generator jurnal siaga bulanan — n8n self-hosted + form kustom | Produksi nyata |
-| [Rekap-Data-Dokter](https://github.com/Agungtrimahmudi-automation/Rekap-Data-Dokter) | Rekap otomatis data kunjungan dokter rumah sakit | Produksi nyata |
-| [laporan-hp-mingguan](https://github.com/Agungtrimahmudi-automation/laporan-hp-mingguan) | Peringkat konsensus Top 10 HP per kelas harga, mingguan | Studi kasus teknis |
-| [novel-rekomendasi-harian](https://github.com/Agungtrimahmudi-automation/novel-rekomendasi-harian) | Digest email harian peringkat novel lintas situs | Studi kasus teknis |
-| [recipe-rag-assistant](https://github.com/Agungtrimahmudi-automation/recipe-rag-assistant) | RAG assistant resep masakan via Telegram | Studi kasus teknis |
-| [baubau-deal-finder](https://github.com/Agungtrimahmudi-automation/baubau-deal-finder) | Pemantau deal marketplace Facebook lokal | Studi kasus teknis |
+| [Jurnal-Siaga](https://github.com/Agungtrimahmudi-automation/Jurnal-Siaga) | Generator jurnal siaga bulanan — n8n self-hosted + form kustom | Produksi — klien eksternal |
+| [Rekap-Data-Dokter](https://github.com/Agungtrimahmudi-automation/Rekap-Data-Dokter) | Rekap otomatis data kunjungan dokter rumah sakit | Produksi — klien eksternal |
+| [laporan-hp-mingguan](https://github.com/Agungtrimahmudi-automation/laporan-hp-mingguan) | Peringkat konsensus Top 10 HP per kelas harga, mingguan | Produksi — penggunaan pribadi |
+| [novel-rekomendasi-harian](https://github.com/Agungtrimahmudi-automation/novel-rekomendasi-harian) | Digest email harian peringkat novel lintas situs | Produksi — penggunaan pribadi |
+| [recipe-rag-assistant](https://github.com/Agungtrimahmudi-automation/recipe-rag-assistant) | RAG assistant resep masakan via Telegram | Produksi — penggunaan pribadi |
+| [baubau-deal-finder](https://github.com/Agungtrimahmudi-automation/baubau-deal-finder) | Pemantau deal marketplace Facebook lokal | Dalam pengembangan |
 
 ---
 
