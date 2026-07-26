@@ -10,6 +10,18 @@ Saya adalah pembelajar mandiri yang penuh rasa ingin tahu, senang bereksperimen 
 
 > *"Jika bisa mudah, kenapa harus melakukan kegiatan repetitif yang membosankan?"*
 
+![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agungtrimahmudi-automation&show_icons=true&theme=default&hide_title=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Agungtrimahmudi-automation&theme=default)
+
 ---
 
 ## 🔧 Apa yang Saya Bangun
@@ -84,7 +96,19 @@ Membuat pekerjaan menjadi lebih sederhana, cepat, dan andal — mengubah tugas-t
 
 ## 🛠️ Tumpukan Teknologi
 
-`n8n` · `Otomatisasi Workflow` · `Integrasi API` · `AI` · `RAG` · `Pinecone` · `Rekayasa Prompt` · `Docker` · `JavaScript` · `Google Workspace` · `AppSheet` · `Google Sheets API` · `Telegram API` · `MySQL` · `PHP` · `HTML/CSS`
+![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+Selain itu: Otomatisasi Workflow, Integrasi API, RAG, Pinecone, Rekayasa Prompt, AppSheet, Google Workspace.
 
 ---
 
@@ -97,3 +121,7 @@ Membuat pekerjaan menjadi lebih sederhana, cepat, dan andal — mengubah tugas-t
 ---
 
 ## 💡 Selalu belajar, bereksperimen, dan membangun sistem otomasi yang memberikan dampak nyata. Terbuka untuk kolaborasi dan peluang di bidang AI dan otomatisasi alur kerja.
+
+---
+
+MIT — lihat [LICENSE](LICENSE).
