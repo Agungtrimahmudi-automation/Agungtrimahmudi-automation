@@ -1,14 +1,14 @@
 # Hi, I'm Agung Tri Mahmudi 👋
 
-**Automation Practitioner | n8n Workflow & AI Developer | Fresh Graduate**
+**Automation Practitioner | n8n Workflow & AI Integration | Fresh Graduate**
 
 I build automation and AI systems, usually to replace some tedious manual process with something faster and more reliable.
 
 The repositories on this profile are workflow automation projects I build and use myself,
-spanning AI integration, data pipelines, and business process automation. Two of them run in
-production for external clients (a hospital and an emergency response unit), several more are
-production systems I run and use daily, and the rest are still in development (see the Status
-column in the project table below).
+spanning AI integration, data pipelines, and business process automation. Two of them are in real
+use by people other than me: one by admin staff at a hospital, another for duty reporting
+at an emergency response unit. Several more are production systems I run and use daily,
+and the rest are still in development (see the Status column in the project table below).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=white)
@@ -34,10 +34,10 @@ Also used across projects: Telegram bot integration, AppSheet, Google Workspace,
 ## 🔧 What I Build
 
 - **Workflow Automation**: end-to-end automation using n8n, API integrations, and webhooks.
-- **AI & LLM Systems**: RAG pipelines, AI agents, and LLM integrations (Gemini, Claude, ChatGPT).
+- **AI & LLM Systems**: RAG pipelines, AI agents, and LLM integrations (Gemini, Claude, DeepSeek).
 - **ETL Pipelines**: extraction, transformation, and aggregation of data from multiple sources in parallel.
 - **AI-Powered Chatbots**: multi-step AI agents with CRUD operations, role-based access control, and payment detection.
-- **Business Process Optimization**: analyzing and redesigning manual workflows for maximum efficiency.
+- **Business Process Optimization**: mapping a manual workflow step by step, then rebuilding it as an automated one.
 - **Internal Applications**: low-code apps using AppSheet and Google Sheets for administrative tasks.
 
 ---
@@ -45,7 +45,7 @@ Also used across projects: Telegram bot integration, AppSheet, Google Workspace,
 ## 🌱 What I'm Working On
 
 - **Automating repetitive tasks**: turning a 2-hour manual process into a 1-minute automated flow.
-- **Building RAG systems**: knowledge-base bots that answer questions from internal documents with **0% hallucination**.
+- **Building RAG systems**: knowledge-base bots that answer only from retrieved documents, and say so when the answer is not in the source.
 - **Integrating AI with business systems**: connecting LLMs to Google Sheets, Telegram, and databases.
 - **Designing prompt engineering systems**: building structured, repeatable prompt frameworks for consistent AI output.
 - **Prototyping and experimenting**: testing new tools, APIs, and approaches to find the most efficient solution.
@@ -58,7 +58,7 @@ Also used across projects: Telegram bot integration, AppSheet, Google Workspace,
 - **RAG pipeline development**: retrieval-augmented generation for knowledge-base systems.
 - **AI agent orchestration**: building multi-step agents with tool calling and access control.
 - **Docker & deployment**: containerizing workflows for production environments.
-- **Scalable automation**: designing systems that grow with business needs.
+- **Cost and quota discipline**: designing pipelines that stay inside free-tier API limits.
 
 ---
 
@@ -72,9 +72,9 @@ Make work simpler, faster, and more reliable: turning repetitive manual tasks in
 
 | Project | Technology | Impact | Status |
 | :--- | :--- | :--- | :--- |
-| **Hospital Data Recap** | n8n + JavaScript + Google Sheets | **95%** time reduction (2 hours to 1 minute) | Production (external client) |
-| **Monthly Duty Journal** | n8n + Google APIs | **80%** staff efficiency on report filing | Production (external client) |
-| **RAG Bot** | Python + Gemini | Grounded retrieval, 0% out-of-source answers | Production (personal use) |
+| **Hospital Data Recap** | n8n + JavaScript + Google Sheets | **95%** time reduction (2 hours to 1 minute) | Production (used by others) |
+| **Monthly Duty Journal** | n8n + Google APIs | **80%** less time spent filling the monthly report | Production (used by others) |
+| **RAG Bot** | Python + Gemini | Grounded retrieval over 1,000 indexed recipes, answers refused when not in source | Running daily (personal) |
 | **FLPS System** | Iterative prompt engineering (v1.0-v3.0) | 24 videos in 1 month, **29,847** views | Completed (used for content production) |
 | **UMKM AI Chatbot** | n8n + Gemini + Google Sheets | Automated customer service, small-scale | Technical case study (legacy instance) |
 
@@ -86,18 +86,18 @@ Technical details for each production project are in its own public repo (see th
 
 | Repo | Description | Status |
 | :--- | :--- | :--- |
-| [Jurnal-Siaga](https://github.com/Agungtrimahmudi-automation/Jurnal-Siaga) | Monthly duty journal generator, self-hosted n8n + custom form | Production (external client) |
-| [Rekap-Data-Dokter](https://github.com/Agungtrimahmudi-automation/Rekap-Data-Dokter) | Automated recap of hospital doctor visit data | Production (external client) |
-| [laporan-hp-mingguan](https://github.com/Agungtrimahmudi-automation/laporan-hp-mingguan) | Weekly consensus Top 10 smartphone ranking per price class | Production (personal use) |
-| [novel-rekomendasi-harian](https://github.com/Agungtrimahmudi-automation/novel-rekomendasi-harian) | Daily email digest of novel rankings across sites | Production (personal use) |
-| [recipe-rag-assistant](https://github.com/Agungtrimahmudi-automation/recipe-rag-assistant) | Recipe RAG assistant via Telegram | Production (personal use) |
+| [Jurnal-Siaga](https://github.com/Agungtrimahmudi-automation/Jurnal-Siaga) | Monthly duty journal generator, self-hosted n8n + custom form | Production (used by others) |
+| [Rekap-Data-Dokter](https://github.com/Agungtrimahmudi-automation/Rekap-Data-Dokter) | Automated recap of hospital doctor visit data | Production (used by others) |
+| [laporan-hp-mingguan](https://github.com/Agungtrimahmudi-automation/laporan-hp-mingguan) | Weekly consensus Top 10 smartphone ranking per price class | Running weekly (personal) |
+| [novel-rekomendasi-harian](https://github.com/Agungtrimahmudi-automation/novel-rekomendasi-harian) | Daily email digest of novel rankings across sites | Running daily (personal) |
+| [recipe-rag-assistant](https://github.com/Agungtrimahmudi-automation/recipe-rag-assistant) | Recipe RAG assistant via Telegram | Running daily (personal) |
 | [baubau-deal-finder](https://github.com/Agungtrimahmudi-automation/baubau-deal-finder) | Local Facebook marketplace deal monitor | In development |
 
 ---
 
 ## 🔗 Other Projects
 
-🔗 **Digital Registration System**: low-code registration system using AppSheet and Google Sheets. Eliminates manual duplicate data entry.
+🔗 **Digital Registration System** (internship, Dinas Pendidikan Pemuda & Olahraga Baubau, Nov 2024 - Jan 2025): competition registration built with AppSheet, Google Sheets, and WhatsApp. Replaced manual sign-up for 3 of the 6 events in the series, cutting registration handling from around 2 hours to under 10 minutes, with duplicate entry prevented at the input step rather than cleaned up afterwards.
 
 🔗 **Lontoi Village Information System**: web-based village information system built for a community service program (KKN).
 
