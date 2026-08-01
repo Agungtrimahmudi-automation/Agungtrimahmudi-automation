@@ -26,8 +26,8 @@ Also used across projects: Telegram bot integration, AppSheet, Google Workspace,
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agungtrimahmudi-automation&show_icons=true&theme=default&hide_title=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Agungtrimahmudi-automation&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agungtrimahmudi-dev&show_icons=true&theme=default&hide_title=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=agungtrimahmudi-dev&theme=default)
 
 ---
 
@@ -86,12 +86,12 @@ Technical details for each production project are in its own public repo (see th
 
 | Repo | Description | Status |
 | :--- | :--- | :--- |
-| [Jurnal-Siaga](https://github.com/Agungtrimahmudi-automation/Jurnal-Siaga) | Monthly duty journal generator, self-hosted n8n + custom form | Production (used by others) |
-| [Rekap-Data-Dokter](https://github.com/Agungtrimahmudi-automation/Rekap-Data-Dokter) | Automated recap of hospital doctor visit data | Production (used by others) |
-| [laporan-hp-mingguan](https://github.com/Agungtrimahmudi-automation/laporan-hp-mingguan) | Weekly consensus Top 10 smartphone ranking per price class | Running weekly (personal) |
-| [novel-rekomendasi-harian](https://github.com/Agungtrimahmudi-automation/novel-rekomendasi-harian) | Daily email digest of novel rankings across sites | Running daily (personal) |
-| [recipe-rag-assistant](https://github.com/Agungtrimahmudi-automation/recipe-rag-assistant) | Recipe RAG assistant via Telegram | Running daily (personal) |
-| [baubau-deal-finder](https://github.com/Agungtrimahmudi-automation/baubau-deal-finder) | Local Facebook marketplace deal monitor | In development |
+| [Jurnal-Siaga](https://github.com/agungtrimahmudi-dev/Jurnal-Siaga) | Monthly duty journal generator, self-hosted n8n + custom form | Production (used by others) |
+| [Rekap-Data-Dokter](https://github.com/agungtrimahmudi-dev/Rekap-Data-Dokter) | Automated recap of hospital doctor visit data | Production (used by others) |
+| [laporan-hp-mingguan](https://github.com/agungtrimahmudi-dev/laporan-hp-mingguan) | Weekly consensus Top 10 smartphone ranking per price class | Running weekly (personal) |
+| [novel-rekomendasi-harian](https://github.com/agungtrimahmudi-dev/novel-rekomendasi-harian) | Daily email digest of novel rankings across sites | Running daily (personal) |
+| [recipe-rag-assistant](https://github.com/agungtrimahmudi-dev/recipe-rag-assistant) | Recipe RAG assistant via Telegram | Running daily (personal) |
+| [baubau-deal-finder](https://github.com/agungtrimahmudi-dev/baubau-deal-finder) | Local Facebook marketplace deal monitor | In development |
 
 ---
 
@@ -121,7 +121,7 @@ Technical details for each production project are in its own public repo (see th
 - **Website:** [agungtrimahmudi.site](https://agungtrimahmudi.site)
 - **Email:** agungtrimahmudi.it@gmail.com
 - **LinkedIn:** [linkedin.com/in/agung-tri-mahmudi](https://linkedin.com/in/agung-tri-mahmudi)
-- **GitHub:** [github.com/agungtrimahmudi-automation](https://github.com/agungtrimahmudi-automation)
+- **GitHub:** [github.com/agungtrimahmudi-dev](https://github.com/agungtrimahmudi-dev)
 
 ---
 
