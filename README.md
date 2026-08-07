@@ -17,7 +17,7 @@ Python, n8n, Docker, Google Workspace (Sheets, Drive, Gemini), Telegram, MySQL, 
 | recipe-rag-assistant | Telegram RAG assistant, grounded retrieval | Running daily |
 | novel-rekomendasi-harian | Daily novel ranking digest | Running daily |
 | laporan-hp-mingguan | Weekly smartphone ranking report | Running weekly |
-| baubau-deal-finder | Marketplace deal monitor | In development |
+| marketplace-deal-finder | Marketplace deal monitor | In development |
 
 **Contact**
 
