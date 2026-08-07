@@ -8,17 +8,6 @@ An n8n pipeline that cuts a hospital's daily data recap from two hours to one mi
 
 Python, n8n, Docker, Google Workspace (Sheets, Drive, Gemini), Telegram, MySQL, PHP, JavaScript.
 
-**Projects**
-
-| Project | What it does | Status |
-| :--- | :--- | :--- |
-| Jurnal-Siaga | Monthly duty journal generator, n8n + Google APIs | Production, used by others |
-| Rekap-Data-Dokter | Automated recap of hospital visit data, n8n + Google Sheets | Production, used by others |
-| recipe-rag-assistant | Telegram RAG assistant, grounded retrieval | Running daily |
-| novel-rekomendasi-harian | Daily novel ranking digest | Running daily |
-| laporan-hp-mingguan | Weekly smartphone ranking report | Running weekly |
-| marketplace-deal-finder | Marketplace deal monitor | In development |
-
 **Contact**
 
 Portfolio: [agungtrimahmudi.site](https://agungtrimahmudi.site) · Email: agungtrimahmudi.it@gmail.com · LinkedIn: [agung-tri-mahmudi](https://linkedin.com/in/agung-tri-mahmudi)
